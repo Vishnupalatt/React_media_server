@@ -47,103 +47,15 @@
     {
       "id": "1",
       "categoryName": "Movie Songs",
-      "allVideos": [
-        {
-          "id": "3",
-          "caption": "RRR",
-          "thumbnail": "https://www.koimoi.com/wp-content/new-galleries/2022/10/rrr-box-office-japan-update-01.jpg",
-          "url": "https://www.youtube.com/embed/sAzlWScHTc4"
-        }
-      ]
+      "allVideos": []
     },
     {
       "id": "2",
       "categoryName": "Hot Songs",
-      "allVideos": [
-        {
-          "id": "7",
-          "caption": "Pathan",
-          "thumbnail": "https://www.koimoi.com/wp-content/new-galleries/2022/12/pathan-cast-fee-revealed-deepika-padukone-shah-rukh-khan-john-abraham-takes-home-massive-paycheck-001.jpg",
-          "url": "https://www.youtube.com/embed/huxhqphtDrM"
-        },
-        {
-          "id": "9",
-          "caption": "Falimy",
-          "thumbnail": "https://static.toiimg.com/thumb/msid-104365104,width-1280,resizemode-4/104365104.jpg",
-          "url": "https://www.youtube.com/embed/upgFiKwsv8o"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "categoryName": "melody Songs",
-      "allVideos": [
-        {
-          "id": "6",
-          "caption": "SitaRamam",
-          "thumbnail": "https://assets.thehansindia.com/h-upload/2022/08/03/1306194-sita.webp",
-          "url": "https://www.youtube.com/embed/9P9DiRpayFE"
-        }
-      ]
+      "allVideos": []
     }
   ],
   "Watchhistory": [
-    {
-      "id": "4",
-      "thumbnail": "https://www.dishadaily.com/h-upload/2023/04/05/202041-salar.webp",
-      "caption": "salar",
-      "url": "https://www.youtube.com/embed/HihakYi5M2I",
-      "date": "2023-12-20T04:46:08.550Z"
-    },
-    {
-      "id": "5",
-      "thumbnail": "https://assets-in.bmscdn.com/discovery-catalog/events/et00313411-rkczkulfle-landscape.jpg",
-      "caption": "Tiger 3",
-      "url": "https://www.youtube.com/embed/vEjTUDjjU6A",
-      "date": "2023-12-20T04:46:30.715Z"
-    },
-    {
-      "id": "99771ae8-5a58-4bcc-af92-0ffbdf83eae9",
-      "thumbnail": "https://www.dishadaily.com/h-upload/2023/04/05/202041-salar.webp",
-      "caption": "salar",
-      "url": "https://www.youtube.com/embed/HihakYi5M2I",
-      "date": "2023-12-20T04:50:40.648Z"
-    },
-    {
-      "id": "f38b4f84-dbee-40ee-b687-29cb0ff7f8bd",
-      "thumbnail": "https://www.dishadaily.com/h-upload/2023/04/05/202041-salar.webp",
-      "caption": "salar",
-      "url": "https://www.youtube.com/embed/HihakYi5M2I",
-      "date": "2023-12-20T04:51:00.188Z"
-    },
-    {
-      "id": "bf4d0643-faee-4247-8073-77e95a2d1af8",
-      "thumbnail": "https://silverscreenindia.com/wp-content/uploads/2022/02/kaithi-1-900x600.jpg",
-      "caption": "Kaithi",
-      "url": "https://www.youtube.com/embed/g79CvhHaj5I",
-      "date": "2023-12-20T04:52:43.432Z"
-    },
-    {
-      "id": "6116c504-10f5-4600-a3fa-6f398612c9ef",
-      "thumbnail": "https://www.koimoi.com/wp-content/new-galleries/2022/10/rrr-box-office-japan-update-01.jpg",
-      "caption": "RRR",
-      "url": "https://www.youtube.com/embed/sAzlWScHTc4",
-      "date": "2023-12-20T06:11:37.161Z"
-    },
-    {
-      "id": "5ce753d9-7228-421e-9fd1-4dde20db5b09",
-      "thumbnail": "https://assets.thehansindia.com/h-upload/2022/08/03/1306194-sita.webp",
-      "caption": "SitaRamam",
-      "url": "https://www.youtube.com/embed/9P9DiRpayFE",
-      "date": "2023-12-20T06:11:41.485Z"
-    },
-    {
-      "id": "1ca337c4-96c5-4bc9-967e-ce3fe22d5f5b",
-      "thumbnail": "https://static.toiimg.com/thumb/msid-104365104,width-1280,resizemode-4/104365104.jpg",
-      "caption": "Falimy",
-      "url": "https://www.youtube.com/embed/upgFiKwsv8o",
-      "date": "2023-12-20T06:11:45.797Z"
-    },
     {
       "id": "0812a32a-ce60-436e-8dfd-862a99dd7d6d",
       "thumbnail": "https://www.filmibeat.com/img/2014/12/19-1418935248-cousins.jpg",
@@ -157,6 +69,13 @@
       "caption": "Cousins",
       "url": "https://www.youtube.com/embed/znN_dSo7kEE",
       "date": "2023-12-20T06:44:33.485Z"
+    },
+    {
+      "id": "717d9a1d-ce79-4fc7-aae6-a141437ba34e",
+      "thumbnail": "https://www.filmibeat.com/img/2014/12/19-1418935248-cousins.jpg",
+      "caption": "Cousins",
+      "url": "https://www.youtube.com/embed/znN_dSo7kEE",
+      "date": "2023-12-21T07:45:28.969Z"
     }
   ]
 }
